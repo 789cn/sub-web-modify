@@ -423,7 +423,7 @@ export default {
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://sub.789cn.cn" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
-        remoteConfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini",
+        remoteConfig: "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-Full.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
@@ -945,6 +945,7 @@ export default {
   }
 };
 </script>
+
 
 
 
