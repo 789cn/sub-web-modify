@@ -338,11 +338,11 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "789cn后端【vless reality+hy1+hy2】": "https://sub.789cn.cn/",
+          "789cn后端【vless reality+hy1+hy2】": "https://sub.789cn.cn",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
         },
         backendOptions: [
-          { value: "https://sub.789cn.cn/" },
+          { value: "https://sub.789cn.cn" },
           { value: "https://subapi.cmliussss.net" },
         ],
         remoteConfig: [
@@ -945,6 +945,7 @@ export default {
   }
 };
 </script>
+
 
 
 
